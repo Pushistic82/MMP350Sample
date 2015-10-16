@@ -43,8 +43,10 @@
 	<div id="content" class="site-content">
 	<p>This website is about me. I like horses. I am student of BMCC. My major is Programming and Design. My favorite music is rock. I love art, photography and cooking.</p>
 	</div>
-	<div><img src="https://wpmmp.bmcc.cuny.edu/~yspirido/assets/images/Penguins.jpg">
-	<img src="https://wpmmp.bmcc.cuny.edu/wp-content/themes/sample/assets/images/Penguins.jpg">
+	<div>
+
+
+		<img src="https://wpmmp.bmcc.cuny.edu/~yspirido/wp-content/themes/sample/assets/images/Penguins.jpg">
 	</div>
 	
 	
